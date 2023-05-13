@@ -19,6 +19,7 @@ A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- Trophys -->
 
@@ -35,13 +36,13 @@ A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="color:#925EA6;">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vignesh-j-/" target="blank"> 
-    <b style="color:#925EA6;background-color:black;padding:2px;"> &nbsp; LinkedIn &nbsp;</b></a> &nbsp;| 
+    <b> &nbsp; LinkedIn &nbsp;</b></a> &nbsp;| 
 <a href="https://www.instagram.com/vigneshjothishwarn/?hl=en" target="blank"> 
-    <b style="color:#925EA6;background-color:black;padding:2px;"> &nbsp; Instagram &nbsp;</b></a> | 
+    <b> &nbsp; Instagram &nbsp;</b></a> | 
 <a href="https://twitter.com/jvignesh609" target="blank"> 
-    <b style="color:#925EA6;background-color:black;padding:2px;"> &nbsp; Twitter &nbsp; </b></a>
+    <b> &nbsp; Twitter &nbsp; </b></a>
 </p> 
 
 ---
@@ -55,7 +56,7 @@ A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-jothi&show_icons=true&locale=en&theme=midnight-purple" alt="vignesh-jothi" /></p> 
 
 <!-- Streak -->
-<p><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-jothi&theme=midnight-purple" alt="vignesh-jothi" /></center></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-jothi&theme=midnight-purple" alt="vignesh-jothi" /></p>
 
 <!-- GitHub Extra Pins -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vignesh-jothi&repo=willoffire)](https://github.com/anuraghazra/github-readme-stats) -->
