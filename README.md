@@ -27,13 +27,12 @@ A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With
 
 ---
 
-### :zap: Recent Activity
+<!-- ### :zap: Recent Activity  -->
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
