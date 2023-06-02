@@ -13,7 +13,7 @@ A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With
 
 - 🌱 I’m currently learning **JavaScript and PHP**
 
-- 📫 How to reach me **jvignesh609@gmail.com**
+- 📫 How to reach me **vigneshjothishwaran@gmail.com**
 
 - ⚡ Fun fact **Everything we seek it already exist in our world; we just want to Re-Search it.**
 <br/>
