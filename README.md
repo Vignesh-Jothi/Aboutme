@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">
-A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With a passion for creating <strong>user-friendly and visually </strong> appealing web applications. <br/>If you're looking for a dedicated and talented frontend developer to bring your ideas to life, please feel free to reach out to me. I would love to discuss how I can help you <b>achieve your goals</b> and create a web application that truly stands out.
+An enthusiastic backend developer based in <b>Tamil Nadu, India.</b> With a strong passion for building robust and scalable web applications, I thrive on solving complex technical challenges. <br/>If you are in search of a skilled and motivated backend developer to turn your concepts into reality, don't hesitate to contact me. I am eager to explore how I can assist you in <b>accomplishing your objectives</b> and crafting a high-performing web application that leaves a lasting impression.
 </h3>
 
 ---
@@ -11,7 +11,7 @@ A highly motivated frontend developer hailing from <b>Tamil Nadu, India.</b>With
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-jothi&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-jothi" /> </p>
 
 
-- 🌱 I’m currently learning **Design System.**
+- 🌱 I’m currently learning **Server Management.**
 
 - 📫 How to reach me **[vigneshjothishwaran@gmail.com](vigneshjothishwaran@gmail.com)**
 
