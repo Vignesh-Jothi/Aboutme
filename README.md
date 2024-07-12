@@ -1,7 +1,9 @@
 <!-- CDN -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" crossorigin="anonymous" />
 
-![MasterHead](./assets/banner.gif)
+<img src="./assets/banner.gif" alt="MasterHead" width="800" height="400">
+
+<!-- ![MasterHead](./assets/banner.gif) -->
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 
 <h3>
